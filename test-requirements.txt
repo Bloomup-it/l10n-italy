@@ -1,0 +1,2 @@
+odoo-addon-l10n_it_riba_oca @ git+https://github.com/OCA/l10n-italy@refs/pull/5042/head#subdirectory=l10n_it_riba_oca
+odoo-addon-l10n_it_edi_related_document @ git+https://github.com/OCA/l10n-italy@refs/pull/5046/head#subdirectory=l10n_it_edi_related_document
